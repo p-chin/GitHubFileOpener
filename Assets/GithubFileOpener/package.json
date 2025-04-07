@@ -1,6 +1,6 @@
 {
     "name": "com.p-chin.github-file-opener",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Open a page in your browser for the Asset in your Github-managed UnityProject.",
     "displayName": "GitHubFileOpener",
     "keywords": [ "github" ],
